@@ -1,16 +1,27 @@
-## Hi there 👋
+## Eaeee! Eu sou o Brenner Dias, sou técnico em desenvolvimento de sistemas 🙋🏽‍♂️
 
-<!--
-**breninhoz/breninhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍🦱 Hoje trabalho com segurança do paciente no hospital, sou maqueiro do centro cirúrgico
+- 👨🏽‍💻 Estudando Java
+- 👽 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![breninhoz's Stats](https://github-readme-stats.vercel.app/api?username=breninhoz&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![breninhoz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breninhoz&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Brenin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Brenin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brenin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Brenin-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/breninhoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/srfall" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "brennerwilker100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brennerdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
