@@ -2,7 +2,6 @@
 
 - 👨🏽‍🦱 Hoje trabalho com segurança do paciente no hospital, sou maqueiro do centro cirúrgico
 - 👨🏽‍💻 Estudando Java
-- 👽 Pronouns: ele/dele
 
 ##
 
