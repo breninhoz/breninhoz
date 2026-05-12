@@ -2,7 +2,7 @@
 ## I'm Brenner Dias, I'm a systems development technician.
 
 - 👨🏽‍🦱 Today I work in a hospital, I'm a stretcher bearer in the operating room.
-- 👨🏽‍💻 Studying Java at Alura.
+- 👨🏽‍💻 Data analysis student at Alura.
 
 ## Tools and Technologies
   <img align="center" alt="Brenin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
